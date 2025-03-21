@@ -1,2 +1,15 @@
 # NumPy
-NumPy(Numerical Python) is a powerful Python library used for numerical computing. It provides support for large, multi-dimensional arrays and matrices, along with a wide range of mathematical functions to perform operations on these arrays efficiently. It is a fundamental package for scientific computing and data analysis in Python.
+- NumPy is a powerful library in Python used for numerical computing. It's especially useful for working with arrays and matrices, and it provides a wide range of mathematical functions to operate on these data structures efficiently.
+- NumPy stands for Numerical Python
+- The core object in NumPy is the ndarray, which stands for "N-dimensional array."
+# Usage of numpy :
+- arithmetic operation
+- statistical operation
+- bitwise operation
+- copy & view array
+- stacking
+- matrix operation
+- linear algebra
+- broadcasting
+- math operation
+- sorting, searching
